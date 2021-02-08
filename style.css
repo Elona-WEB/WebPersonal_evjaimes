@@ -1,0 +1,52 @@
+
+
+#generaldivheader{
+    background-color: rosybrown !important;
+    border-bottom:0px solid #ccc; 
+}
+
+#colwelcome{
+    margin: auto;
+    width: 70%;
+    border: 3px whitesmoke;
+    padding: 20px;
+}
+
+.img{
+    border-radius: 5em;
+    margin:auto;
+    width: 87%;
+    padding: 20px;
+}
+
+#textwel{
+    color: whitesmoke;
+    border-radius: 2em;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+}
+
+#colnav{
+    background-color: rgb(211, 176, 176);
+    border-radius: 2em;
+    margin: auto;
+    width: 80%;
+    border: 3px whitesmoke;
+    padding: 20px;
+}
+
+#colornav{
+    width: auto;
+    background-color: rgb(211, 176, 176) !important;
+
+}
+
+.titlenav{
+    text-align: center;
+    color: whitesmoke;
+}
+
+.nav-item{
+    text-align: center;
+}
