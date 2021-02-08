@@ -1,5 +1,4 @@
 
-
 #generaldivheader{
     background-color: rosybrown !important;
     border-bottom:0px solid #ccc; 
@@ -48,5 +47,13 @@
 }
 
 .nav-item{
+    text-align: center;
+}
+
+.second{
+    height: 40em;
+    padding: 2em;
+    margin: auto;
+    width: 100%;
     text-align: center;
 }
