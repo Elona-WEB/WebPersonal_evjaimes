@@ -20,9 +20,9 @@
 
 .img{
     border-radius: 5em;
-    margin:auto;
-    width: 87%;
-    padding: 20px;
+    width: 30%;
+    padding: 10px;
+    margin: auto;
 }
 
 #textwel{
@@ -141,5 +141,17 @@ p{
     align-items: center;
     text-align: justify;
     width: 80%;
+}
+
+.imgI{
+    border-radius: 10em;
+    width: 220px;
+    height: 220px;
+}
+.imgL{
+    border-radius: 10em;
+    width: 180px;
+    height: 180px;
+    padding: 1em;
 }
 
