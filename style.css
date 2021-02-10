@@ -1,6 +1,6 @@
 
 #generaldivheader{
-    background-color: #bc8f8f !important;
+    background-color: rgb(188, 143, 143) !important;
     border-bottom:0px solid #ccc;
     width: auto;
 }
@@ -50,7 +50,7 @@
 
 .titlenav{
     text-align: center;
-    color: #f5f5f5;
+    color: rgb(245, 245, 245);
 }
 
 .nav-item{
@@ -71,14 +71,14 @@
     margin: auto;
     width: 100%;
     font-variant: small-caps;
-    color:#ac6e6e;
+    color:rgb(172, 110, 110);
     align-items: center;
     font-family: Impact;
 }
 
 .titleSection{
     font-variant: small-caps;
-    color:#ac6e6e;
+    color:rgb(172, 110, 110);
     font-family: Impact;
 }
 
@@ -132,6 +132,14 @@ p{
     text-align: center;
 }
 
+.bcol{
+    background-color:rgb(171, 109, 109) !important;
+}
 
 
+.qqq{
+    align-items: center;
+    text-align: justify;
+    width: 80%;
+}
 
