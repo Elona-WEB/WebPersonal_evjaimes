@@ -43,7 +43,7 @@
 
 .titlenav{
     text-align: center;
-    color: whitesmoke;
+    color: #f5f5f5;
 }
 
 .nav-item{
@@ -73,6 +73,11 @@
     color:#ac6e6e;
 }
 
+.titleWhite{
+    font-variant: small-caps;
+    color:whitesmoke;
+}
+
 .pink{
     background-color: rgb(211, 176, 176) !important;
 }
@@ -91,5 +96,14 @@
     border: 10px solid #f5f5f5;
     background-color:  rgb(204, 162, 162) !important;
 }
+
+.iwm{
+    align-items: center;
+}
+
+.imgc{
+    padding: 0.5em;
+}
+
 
 
