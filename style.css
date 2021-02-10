@@ -65,6 +65,7 @@
     width: 100%;
     font-variant: small-caps;
     color:rgb(172, 110, 110);
+    align-items: center;
 }
 
 .titleSection{
@@ -91,7 +92,4 @@
     background-color:  rgb(204, 162, 162) !important;
 }
 
-.qw{
-    text-align: center;
-}
 
